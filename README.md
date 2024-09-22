@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Pratham Aggarwal</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="![81178b47a8598f0c81c4799f2cdd4057](https://github.com/user-attachments/assets/5a651011-0c2c-4f06-b7e1-c9f5181c3b82)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham23-maker&label=Profile%20views&color=0e75b6&style=flat" alt="pratham23-maker" /> </p>
 
