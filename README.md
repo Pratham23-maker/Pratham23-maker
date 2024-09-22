@@ -1,4 +1,4 @@
-[![MasterHead](https://myweb2002.w3spaces.com/css.html)]
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 
 <h1 align="center">Hi 👋, I'm Pratham Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
