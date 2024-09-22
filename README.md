@@ -1,7 +1,7 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
 <h1 align="center">Hi 👋, I'm Pratham Aggarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham23-maker&label=Profile%20views&color=0e75b6&style=flat" alt="pratham23-maker" /> </p>
