@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![1234](https://github.com/user-attachments/assets/aec2d820-50a7-4378-a313-0480f3aa0397)
 
 <h1 align="center">Hi 👋, I'm Pratham Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
